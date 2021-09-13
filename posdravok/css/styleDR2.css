@@ -15,7 +15,7 @@ header {
 }
 body {
   background: url("img/fon2.jpg");
-  background-repeat: repeat-y;
+  background-repeat: repeat;
   background-size: 100%;
   background-attachment: fixed;
   margin-top: 50px;
