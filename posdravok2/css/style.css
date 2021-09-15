@@ -1,0 +1,91 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-image: url("img/fon2.jpg");
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
+}
+header{
+  position:fixed;
+  background-color: orange;
+  left:0;
+  top:0;
+  height: 50px;
+  width: 100%;
+  text-align: center;
+}
+header p{
+  font-size: 2em;
+  padding: 10px 0 0 0;
+  margin: 0;
+}
+main{
+    display: flex;
+    background: url("img/fon2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.container{
+  display: flex;
+  background-color: yellow;
+  width: 680px;
+  height: 80vh;
+  padding: 10vh 0;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.content{
+  margin: auto auto;
+  background-color: blue;
+  padding: 15px;
+  height: 75vh;
+}
+.audio {
+}
+footer{
+  position:fixed;
+  background-color: blue;
+  left:0;
+  bottom:0;
+  height: 40px;
+  width: 100%;
+}
+footer{
+display: flex;
+padding: 7px 0 5px 0;
+}
+.containerFooter {
+  margin-left: auto;
+  display: flex;
+  justify-content: space-around;
+  padding: 0 15px 0 0;
+  width: 50%;
+}
+.containerFooter p{
+
+}
+
+
+img{
+  width: 240px;
+}
+
+/*удалить нахуй*/
+article{
+  background-color: black;
+}
+section{
+  background-color: green;
+  padding: 10px;
+}
+p{
+  background-color: blue;
+}
+/*elfkbnm cdth[e*/
+*{
+  /*background-color: white !important;
+}
